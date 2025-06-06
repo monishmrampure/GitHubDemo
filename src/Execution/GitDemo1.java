@@ -29,6 +29,9 @@ public class GitDemo1 {
 		String str2 = "Git World";
 		
 		System.out.println("Printing the data: "+(a+b+" "+str1+" "+str2));
+		System.out.println("Postjira2");
+		System.out.println("Postjira3");
+		System.out.println("Post jira 4");
 	}
 
 }
