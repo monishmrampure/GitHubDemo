@@ -10,5 +10,9 @@ public class GitDemo2 {
 		
 		System.out.println("Checking the changes in the Gitdemo2");
 	}
-
+	
+	public void getData2() {
+		System.out.println("execution of webautomation");
+		System.out.println("Working on Git/github automation for selenium");
+	}
 }
