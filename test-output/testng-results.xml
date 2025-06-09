@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-09T11:01:25 IST" name="Default suite" finished-at="2025-06-09T11:01:25 IST" duration-ms="79">
+  <suite started-at="2025-06-09T11:32:17 IST" name="Default suite" finished-at="2025-06-09T11:32:17 IST" duration-ms="73">
     <groups>
     </groups>
-    <test started-at="2025-06-09T11:01:25 IST" name="Default test" finished-at="2025-06-09T11:01:25 IST" duration-ms="79">
-      <class name="Execution.GitDevelopDemo">
-        <test-method signature="architechChange2()[pri:0, instance:Execution.GitDevelopDemo@2d7275fc]" started-at="2025-06-09T11:01:25 IST" name="architechChange2" finished-at="2025-06-09T11:01:25 IST" duration-ms="18" status="PASS">
+    <test started-at="2025-06-09T11:32:17 IST" name="Default test" finished-at="2025-06-09T11:32:17 IST" duration-ms="73">
+      <class name="Execution.GitDevelopDemo2">
+        <test-method signature="MobileTesting()[pri:0, instance:Execution.GitDevelopDemo2@3a93b025]" started-at="2025-06-09T11:32:17 IST" name="MobileTesting" finished-at="2025-06-09T11:32:17 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- architechChange2 -->
-      </class> <!-- Execution.GitDevelopDemo -->
+        </test-method> <!-- MobileTesting -->
+        <test-method signature="RestAssured()[pri:0, instance:Execution.GitDevelopDemo2@3a93b025]" started-at="2025-06-09T11:32:17 IST" name="RestAssured" finished-at="2025-06-09T11:32:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAssured -->
+      </class> <!-- Execution.GitDevelopDemo2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
