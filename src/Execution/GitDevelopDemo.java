@@ -24,5 +24,11 @@ public class GitDevelopDemo {
 		System.out.println("IOS Apps");
 		System.out.println("IOS Mobile Testing");
 	}
+	
+	@Test
+	public void AWS() {
+		System.out.println("Architech added a new tech: AWS");
+		System.out.println("Amazon Webservices");
+	}
 
 }
